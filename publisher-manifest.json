@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "a536ad29c8ff7e5258c40505",
+  "owner": "wfcywcta",
+  "repo": "page-18a8c021b33337bf384b805c",
+  "title": "魔戒",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "18a8c021b33337bf384b805c",
+      "a": "魔戒",
+      "b": "",
+      "entity": "魔戒",
+      "brand": "魔戒",
+      "separator": "",
+      "path": "index.html",
+      "hash": "6f0a8add41cef28917ff13359e7fcce12906519f5a877ad09b16b58c42607e6f",
+      "content": {
+        "keyword1": "魔戒",
+        "keyword2": "",
+        "primary_entity": "魔戒",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "魔戒VPN为您提供安全稳定的网络加速服务，提供高速流量支持和流媒体解锁。立即访问官网下载客户端，畅享无忧上网。",
+          "AI_DESCRIPTION": "魔戒VPN为您提供安全稳定的网络加速服务，提供高速流量支持和流媒体解锁。立即访问官网下载客户端，畅享无忧上网。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --ivory: #F5F5DC;\n            --green: #2E8B57;\n            --text: #333333;\n        }\n        * {\n            margin: 0;\n            padding: 0;\n            box-sizing: border-box;\n        }\n        body {\n            font-family: 'Microsoft YaHei', Arial, sans-serif;\n            background-color: var(--ivory);\n            color: var(--text);\n            line-height: 1.6;\n        }\n        header {\n            background-color: white;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n            position: sticky;\n            top: 0;\n            z-index: 10;\n        }\n        nav {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 1rem 2rem;\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: bold;\n            color: var(--green);\n        }\n        ul {\n            display: flex;\n            gap: 2rem;\n            list-style: none;\n        }\n        a {\n            color: var(--text);\n            text-decoration: none;\n            font-weight: 500;\n        }\n        a:hover {\n            color: var(--green);\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 2rem;\n        }\n        h1 {\n            text-align: center;\n            font-size: 2.8rem;\n            color: var(--green);\n            margin-bottom: 3rem;\n            padding-top: 2rem;\n        }\n        h2 {\n            font-size: 1.8rem;\n            color: var(--green);\n            margin-bottom: 1.5rem;\n        }\n        .intro-grid {\n            display: grid;\n            grid-template-columns: 1fr 1fr;\n            gap: 2rem;\n            margin-bottom: 3rem;\n        }\n        @media (max-width: 768px) {\n            .intro-grid {\n                grid-template-columns: 1fr;\n            }\n            h1 {\n                font-size: 2rem;\n            }\n            ul {\n                flex-direction: column;\n                gap: 1rem;\n            }\n            nav {\n                padding: 1rem;\n            }\n            main {\n                padding: 1rem;\n            }\n        }\n        section {\n            margin-bottom: 3rem;\n        }\n        p {\n            font-size: 1.1rem;\n            margin-bottom: 1rem;\n        }\n        ol {\n            padding-left: 1.5rem;\n        }\n        ol li {\n            margin-bottom: 0.8rem;\n        }\n        .plans-container {\n            margin-bottom: 3rem;\n        }\n        details {\n            margin-bottom: 1.2rem;\n            border: 1px solid #ddd;\n            border-radius: 8px;\n            overflow: hidden;\n        }\n        summary {\n            padding: 1rem 1.5rem;\n            background-color: #f9f9f9;\n            font-weight: bold;\n            cursor: pointer;\n            font-size: 1.1rem;\n        }\n        summary:hover {\n            background-color: #f0f0f0;\n        }\n        .answer {\n            padding: 1rem 1.5rem;\n            background-color: white;\n        }\n        footer {\n            background-color: var(--green);\n            color: white;\n            text-align: center;\n            padding: 2rem;\n            font-size: 0.9rem;\n        }\n    </style>\n\n\n    <header>\n        <nav>\n            <div class=\"logo\">魔戒</div>\n            <ul>\n                <li><a href=\"#intro\">品牌介绍</a></li>\n                <li><a href=\"#scenarios\">使用场景</a></li>\n                <li><a href=\"#operation\">操作指南</a></li>\n                <li><a href=\"#plans\">套餐选择</a></li>\n                <li><a href=\"#faq\">常见问题</a></li>\n            </ul>\n        </nav>\n    </header>\n    <main>\n        <h1>魔戒VPN</h1>\n        <section id=\"intro\">\n            <h2>品牌简介</h2>\n            <p>魔戒VPN是一款专注于提供稳定、安全网络加速服务的品牌。我们通过先进的节点池和技术，帮助用户突破地理限制，获得高速稳定的上网体验。</p>\n        </section>\n        <section class=\"intro-grid\" id=\"scenarios\">\n            <div>\n                <h2>使用场景</h2>\n                <p>魔戒VPN适用于日常办公浏览、流媒体平台解锁、跨境访问以及网络游戏加速等多种场景。无论您是个人用户还是企业团队，都能找到适合的解决方案。</p>\n            </div>\n            <div>\n                <h2>操作指南</h2>\n                <p>使用魔戒VPN流程简便：</p>\n                <ol>\n                    <li>访问官网选择合适的套餐</li>\n                    <li>下载并安装客户端</li>\n                    <li>注册账号并登录</li>\n                    <li>选择节点并连接</li>\n                </ol>\n            </div>\n        </section>\n        <div class=\"plans-container\">\n            {{PLANS_HTML}}\n        </div>\n        <div>\n            {{CLIENTS_HTML}}\n        </div>\n        <section id=\"faq\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>魔戒VPN是什么？</summary>\n                <div class=\"answer\">\n                    <p>魔戒VPN是一款安全可靠的网络加速品牌，提供稳定流量支持和设备在线功能，帮助用户享受顺畅的互联网体验。</p>\n                </div>\n            </details>\n            <details>\n                <summary>魔戒VPN支持哪些设备？</summary>\n                <div class=\"answer\">\n                    <p>魔戒VPN支持多台设备同时在线，让您的家庭或团队网络体验更佳。</p>\n                </div>\n            </details>\n            <details>\n                <summary>如何选择套餐？</summary>\n                <div class=\"answer\">\n                    <p>根据您的需求和使用场景，选择基础版、旗舰版或团队版套餐即可满足。</p>\n                </div>\n            </details>\n            <details>\n                <summary>魔戒VPN如何解锁流媒体？</summary>\n                <div class=\"answer\">\n                    <p>通过连接专线节点，魔戒VPN能够有效帮助您解锁流媒体平台的内容。</p>\n                </div>\n            </details>\n            <details>\n                <summary>年付计划的优势是什么？</summary>\n                <div class=\"answer\">\n                    <p>年付计划提供更优惠的价格，节省开支并获得长期稳定服务。</p>\n                </div>\n            </details>\n            <details>\n                <summary>魔戒VPN的客服支持如何？</summary>\n                <div class=\"answer\">\n                    <p>我们提供7x24优先工单支持，确保您的网络问题得到及时解决。</p>\n                </div>\n            </details>\n        </section>\n    </main>\n    <footer>\n        <p>© 2024 魔戒VPN 保留所有权利</p>\n    </footer>\n\n",
+          "hash": "3a7e123cba6e8e6fe7a720b433c6b2135aef3401ccae22160ec9535ef321da5b",
+          "seo": {
+            "title": "魔戒VPN - 安全稳定的网络加速器",
+            "keywords": "魔戒VPN,魔戒梯子,VPN加速器,机场订阅,客户端下载",
+            "description": "魔戒VPN为您提供安全稳定的网络加速服务，提供高速流量支持和流媒体解锁。立即访问官网下载客户端，畅享无忧上网。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nllieab.cn",
+    "host": "web.nllieab.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "nllieab.cn",
+      "url": "https://nllieab.cn/",
+      "label": "东方网络",
+      "apex": "nllieab.cn",
+      "kind": null,
+      "identity": "apftndw/page-e79be08b0ae832f535ade811"
+    },
+    {
+      "host": "999ew.cn",
+      "url": "https://999ew.cn/",
+      "label": "魔戒",
+      "apex": "999ew.cn",
+      "kind": null,
+      "identity": "vxspeg9bv/page-0b84603d0eb599eaf789f1cd"
+    },
+    {
+      "host": "bggdjp.cn",
+      "url": "https://bggdjp.cn/",
+      "label": "魔戒",
+      "apex": "bggdjp.cn",
+      "kind": null,
+      "identity": "pwk8xwvp/page-6c4e6880f26af3a8a6cfcca5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "cebc89044ec572f718985215e0bba25f5cac59b76e5b84f788dbe585534c6b39",
+    "sitemap.xml": "48f66fd4c21da6c9f048ecff3523663f914771ce37d25d63105e5b8da2ba96e0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "052bc9dcb3ed6947e3a576a5c7f8b38200989f941216e04c0d74ed6f5981d75d",
+    "robots.txt": "d0577c36941ef743ad5de49d91acbcfc01d25e82d4d7cb32f98565708c5739d5",
+    "d4db2b1d88d2d215d4c8ffbf162d1310.txt": "0e89c4f5e9333a69ae0742f9845b401dec34ad9c3ed9d172308a183dbe199a36"
+  },
+  "revision": "c3a990b8b1657d4696cf3f7f1c8d9ae244acf83773126405fc5733bf5170a22d"
+}
